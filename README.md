@@ -1,5 +1,5 @@
 # Google-Chrome-dinosaur-game-LEGO-SPIKE-version
-谷歌浏览器小恐龙spike移植版，version：1.7
+谷歌浏览器小恐龙spike移植版，latest-version：1.7
 向左旋转主机开始游戏
 G重力：调节小恐龙悬空时间，数字为跳跃悬空格数
 speed速度：建议数值0.1~0.4之间
